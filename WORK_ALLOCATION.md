@@ -5,7 +5,7 @@
 | Full Name | Student ID | GitHub Username | Email |
 |-----------|-----------|----------------|-------|
 | 陳少畇 | 113403510 | ash-eeee   | ashleychen1111@gmail|
-| 陳佑瑄 | 113403004 | Miachen111 | |
+| 陳佑瑄 | 113403004 | Miachen111 | mia665120@gmail.com |
 | 姚喬嫚 | 113403512 | Yaociaoman | |
 
 ---
@@ -27,7 +27,7 @@ or reassigned mid-project).
 | **Task 2c** — Write operations (`execute_booking`, `execute_cancellation`) | | | |
 | **Task 2d** — Authentication queries (`login_user`, `register_user`, `get_user_secret_question`, `verify_secret_answer`, `update_password`) | | | |
 | **Task 3** — PostgreSQL seeding (`seed_postgres.py`) | 姚喬嫚 | 陳少畇 | |
-| **Task 4** — Neo4j graph design & seeding (`seed_neo4j.py`, `seed.cypher`) | | | |
+| **Task 4** — Neo4j graph design & seeding (`seed_neo4j.py`, `seed.cypher`) | 陳佑瑄| | |
 | **Task 5** — Neo4j query functions (`graph/queries.py`) | 陳少畇 | | |
 | **Task 6** *(if attempted)* — Optional extension | | | |
 
